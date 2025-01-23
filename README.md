@@ -3,10 +3,10 @@ Schuurmans, I. K., Dunn, E. C., Lussier, A. A. (2024). DNA methylation as a poss
 
 R scripts used to analyze each adversity for each of the main analyses using the Structured Life Course Modeling Approach (SLCMA)
 * runMRfunction_22024-03-08.R - the function needed to run MR analyses
-* 1. prepareMR_2024-03-08.R - a script to prepare summary statistics for MR
-* 2. runningMR_2024-03-08.R - a script to run the mendelian randomization; generating raw results
-* 3. analyzingMR_2024-03-08.R - a script to analyze raw MR results, and to produce sensitivity checks
-* 4. createTablesMR_2024-03-08.R - a script to generate tables and figures
+* prepareMR_2024-03-08.R - a script to prepare summary statistics for MR
+* runningMR_2024-03-08.R - a script to run the mendelian randomization; generating raw results
+* analyzingMR_2024-03-08.R - a script to analyze raw MR results, and to produce sensitivity checks
+* createTablesMR_2024-03-08.R - a script to generate tables and figures
 
 Summary statistics used: The GWAS summary statistics used for the analysis were downloaded from publicly available sources. 
 - Summary statistics for DNAm loci were downloaded from http://godmc.org.uk/. 
